@@ -1,0 +1,20 @@
+{
+  "name": "Go Back With Backspace",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Go Back With Backspace",
+  "icons": {
+    "16": "icons/backspace16x16.png",
+    "32": "icons/backspace32x32.png",
+    "48": "icons/backspace48x48.png",
+    "128": "icons/backspace128x128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["content-scripts/content.js"]
+    }
+  ]
+}
