@@ -1,8 +1,8 @@
 {
-  "name": "Go Back With Backspace",
+  "name": "Backspace Shortcut",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Go Back With Backspace",
+  "description": "It makes the backspace key a 'back' shortcut. It's pure and fast. No personal data will be collected. No spying. Open-source.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
